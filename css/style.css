@@ -1,0 +1,229 @@
+/*
+ * Colors
+ * Offwhite: #f0f0f0
+ * Less Offwhite: #f5f5f5
+ * Offblack: #151515
+ * Less Offblack: #191919
+ */
+
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Color classes */
+
+div.offwhite{
+
+    background-color: #f5f5f5;
+}
+
+div.white{
+
+    background-color: #ffffff;
+}
+
+div.offblack{
+
+    background-color: #191919;
+}
+
+#wrapper{
+
+    min-height: 100vh; /* This keeps the footer at the bottom */
+}
+
+/* Landing Area */
+
+#landing{
+
+    height: 25vh;
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+#title-wrapper{
+
+    display: inline-block;
+    position: relative;
+    top: 15%;
+    width: auto;
+    height: auto;
+}
+
+#title{
+
+    font-family: 'Baskervville', serif;
+    font-size: 38px;
+
+    position: relative;
+    text-align: center;
+    top: 15%;
+}
+
+#title-line{
+
+    position: relative;
+    top: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 2px;
+    background-color: #000000;
+}
+
+#nav{
+
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    bottom: 0%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+
+#navlink-wrapper{
+
+    position: relative;
+}
+
+.link{
+
+    font-family: 'Baskervville', serif;
+    font-size: 22px;
+    display: inline-block;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.link-a{
+
+    color: #000000;
+    text-decoration: none;
+}
+
+.link-a.current{
+
+    text-decoration: underline;
+}
+
+.link-a:hover{
+
+    text-decoration: underline;
+}
+
+/* Page Class Formatting */
+
+.post{
+
+    position: relative;
+    padding-top: 60px;
+}
+
+.text{
+
+    padding-left: 7%;
+    padding-right: 7%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headline{
+
+    font-family: 'Baskervville', serif;
+    font-size: 32px;
+}
+
+.date{
+
+    font-family: 'Montserrat', serif;
+    font-size: 16px;
+    color: #aaaaaa;
+    padding-top: 5px;
+}
+
+.content{
+
+    font-family: 'Montserrat', serif;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+/* Footer */
+
+#extra-padding{
+
+    padding-top: 10%;
+    height: auto;
+    display: block;
+}
+
+#footer{
+
+    height: 50px;
+    background-color: #151515;
+    position: relative;
+}
+
+#copyright{
+
+    font-family: 'Montserrat', serif;
+    font-size: 16px;
+    color: #ffffff;
+    position: absolute;
+    top: 50%;
+    margin-top: -14px;
+    padding-left: 5%;
+}
+
+/* Tablet Rules for Responsiveness */
+
+@media only screen and (min-width: 768px){
+
+    #title{
+
+        font-size: 52px;
+    }
+
+    .link{
+
+        font-size: 26px;
+    }
+
+    .post{
+
+        padding-top: 100px;
+    }
+
+    .text{
+
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+}
+
+@media only screen and (min-width: 1200px){
+
+    #landing{
+
+        height: 35vh;
+    }
+
+    #title{
+
+        font-size: 72px;
+    }
+
+    #nav{
+
+        padding-bottom: 1%;
+    }
+
+    .text{
+
+        padding-left: 30%;
+        padding-right: 30%;
+    }
+}
