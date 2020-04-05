@@ -1,6 +1,7 @@
 post-two
-Arcana Devblog #2 - Times The Power
+Get to Know Me
 November 26, 2019
-Hello this is my blog post I guess. I'm just gonna type a few things because honestly
-I'm not even entirely sure how the rest of this is going to work we're just going to
-have to figure it out as we go. Two.
+So who am I, anyways? Well, my name's Matt and I'm a software developer. I'm graduating with a degree in Computer Science soon,
+but I started programming way before that. I was drawn to programming at an early age because I like creativity and I like problem
+solving, and programming was something that combined the two. I love creating things with code and I love learning new languages or
+experimenting with new technologies.

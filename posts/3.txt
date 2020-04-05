@@ -1,6 +1,8 @@
 post-two
-Arcana Devblog #3 - Three Is A Crowd
-November 29, 2019
-Hello this is my blog post I guess. I'm just gonna type a few things because honestly
-I'm not even entirely sure how the rest of this is going to work we're just going to
-have to figure it out as we go. Three.
+So What Now?
+November 29, 2020
+This was originally going to be a development blog, but I discovered that I don't like blogging that much (I like writing, though! Just not blog writing).
+If you're reading this, then, it means you're either looking at my github portfolio or it means I applied to your company and your company is looking for
+someone with experience in web development so I listed this as my website. Either way, there's a good chance that if you're looking at this, it means you're
+somebody who's hiring a software developer and who also has access to my resume. I'd encourage you to check it out if you haven't already (I also wrote it in HTML).
+And if you've already done that, I'd love for you to reach out to me for an interview! I would be thrilled for the opportunity to work at your company.

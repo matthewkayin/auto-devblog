@@ -1,6 +1,10 @@
 post-one
-Arcana Devblog #1 - One More Time
+Introduction to the Blog
 November 7, 2019
-Hello this is my blog post I guess. I'm just gonna type a few things because honestly
-I'm not even entirely sure how the rest of this is going to work we're just going to
-have to figure it out as we go. One.
+Hello this is the first blog post. This entire site was auto-generated based on templates I wrote in HTML / CSS.
+I setup a folder of "posts" which are each defined via numbered text files. Then I have a python script which compiles
+the posts together into a blog, complete with an archive of all the posts. That archive is the reason why I did it this way.
+I originally was only going to try developing a static site, but then I realized that it would be a hassle to manually
+edit the archive and the home page just to get page content going, so I created a little python script to solve that problem
+for me. I have since learned that solutions like Jekyll offer a better way to do this, but this was still a great learning
+experience.
