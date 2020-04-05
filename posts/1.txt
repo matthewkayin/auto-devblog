@@ -1,10 +1,8 @@
-post-one
-Introduction to the Blog
-November 7, 2019
-Hello this is the first blog post. This entire site was auto-generated based on templates I wrote in HTML / CSS.
-I setup a folder of "posts" which are each defined via numbered text files. Then I have a python script which compiles
-the posts together into a blog, complete with an archive of all the posts. That archive is the reason why I did it this way.
-I originally was only going to try developing a static site, but then I realized that it would be a hassle to manually
-edit the archive and the home page just to get page content going, so I created a little python script to solve that problem
-for me. I have since learned that solutions like Jekyll offer a better way to do this, but this was still a great learning
-experience.
+post-two
+So What Now?
+November 29, 2020
+This was originally going to be a development blog, but I discovered that I don't like blogging that much (I like writing, though! Just not blog writing).
+If you're reading this, then, it means you're either looking at my github portfolio or it means I applied to your company and your company is looking for
+someone with experience in web development so I listed this as my website. Either way, there's a good chance that if you're looking at this, it means you're
+somebody who's hiring a software developer and who also has access to my resume. I'd encourage you to check it out if you haven't already (I also wrote it in HTML).
+And if you've already done that, I'd love for you to reach out to me for an interview! I would be thrilled for the opportunity to work at your company.
